@@ -1,4 +1,4 @@
-package com.effective.item70;
+package com.effective;
 
 import java.io.File;
 import java.io.FileInputStream;

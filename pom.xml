@@ -8,5 +8,11 @@
   <artifactId>effective-java-module</artifactId>
   <version>1.0-SNAPSHOT</version>
 
+  <!-- 자바 버전 설정 -->
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+  </properties>
+
 
 </project>
